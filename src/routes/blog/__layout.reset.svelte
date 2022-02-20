@@ -10,6 +10,6 @@
 <style>
     .container {
         height : 100vh;
-        background : lightgoldenrodyellow;
+        background-color: lightskyblue;
     }
 </style>

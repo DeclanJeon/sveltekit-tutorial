@@ -16,6 +16,8 @@
     ul {
         display : flex;
         list-style: none;
+        margin : 0;
+        padding : 0;
     }
     li {
         margin-right: 10px;
